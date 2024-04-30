@@ -12,7 +12,7 @@ title                    : "Kaixuan Li"
 title_separator          : "-"
 name                     : &name "Kaixuan Li"
 description              : &description "Master of Computer Science"
-url                      : https://kaixuanlee.github.io/KaixuanLee/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kaixuanlee.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KaixuanLee/KaixuanLee.github.io"
 
