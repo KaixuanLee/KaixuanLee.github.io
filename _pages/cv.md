@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-[ 09/2006 ] - [ 06/2010 ]
-undergraduate student in Department of Software engineering, 
-Changchun University of Science and Technology, 
-Changchun, Jilin, China. 
-* Bachelor’s degree in Software Engineering
-[ 08/2021 ] - [ 12/2023 ]
-graduate student in Department of Computer Science, 
-Virginia State University, 
-Petersburg, Virginia, United States. 
-* Master’s degree in Computer Science
+* [ 09/2006 ] - [ 06/2010 ]
+  undergraduate student in Department of Software engineering, 
+  Changchun University of Science and Technology, 
+  Changchun, Jilin, China. 
+  * Bachelor’s degree in Software Engineering
+* [ 08/2021 ] - [ 12/2023 ]
+  graduate student in Department of Computer Science, 
+  Virginia State University, 
+  Petersburg, Virginia, United States. 
+  * Master’s degree in Computer Science
 
 Work experience
 ======
